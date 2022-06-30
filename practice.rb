@@ -1,7 +1,7 @@
-person = {
-    name: 'alex',
-    hat: true,
-    hair: 'black'
+Car = {
+    Make: "Honda",
+    Model: "Civic",
+    Color: "Gold"
 }
 
-puts person[:hat]
+puts Car
